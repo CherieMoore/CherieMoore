@@ -10,7 +10,7 @@ I'm a Social Media Marketing Manager by day and Software/Cloud Engineering stude
 </p>
 
 <p>
-📓 I’m currently learning Hosting, React, Bootstrap, REST APIs, functional programming techniques, Flexbox, Media Queries, Vanilla JavaScript, GitHub, SEO etc.
+📓 I’m currently learning Hosting, React, Bootstrap, REST APIs, functional programming techniques, Flexbox, Media Queries, Vanilla JavaScript, GitHub, SEO, AWS Cloud Practioner etc.
 </p>
 
 <p>
