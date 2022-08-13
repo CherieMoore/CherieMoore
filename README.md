@@ -2,7 +2,7 @@
 
 <body> 
 
-I'm a Social Media Marketing Manager by day and Software/Cloud Engineering student by night, looking to break into the engineering world. I'm currently obtainihg an Master of Science degree in Cloud Computing. I'm also a fulltime student w/ #SheCodes, an accelerated, immersive program featuring hands-on curriculum focused on software engineering, computer science and application development.
+I'm a Social Media Marketing Manager by day and Software/Cloud Engineering student by night, looking to break into the engineering world. I'm currently obtaining a Master of Science degree in Cloud Computing. I'm also a fulltime student w/ #SheCodes, an accelerated, immersive program featuring hands-on curriculum focused on software engineering, computer science and application development.
 
 <hr>
 <p>
