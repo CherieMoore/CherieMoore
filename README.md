@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>👋🏾 Hey there, I'm Cherie!</h1>
 
-<!--
-**CherieMoore/CherieMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body> 
 
-Here are some ideas to get you started:
+I'm a Social Media Marketing Manager by day and Software/Cloud Engineering student by night, looking to break into the engineering world. I'm currently in a M.S. degree program focused on Cloud Computing. I'm also a fulltime student w/ #SheCodes, an accelerated, immersive program featuring hands-on curriculum focused on software engineering, computer science and application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p>
+🖥 I’m currently working on building more projects using HTML, CSS and JavaScript.
+</p>
+
+<p>
+📓 I’m currently learning Hosting, React, Bootstrap, REST APIs, functional programming techniques, Flexbox, Media Queries, Vanilla JavaScript, GitHub, SEO etc.
+</p>
+
+<p>
+✈️ I enjoy traveling the world, 👩🏽‍💻learning new coding languages and 🎫sitting front row at concerts...because 2nd row and behind doesn't have the same impact. 😃
+</p>
+</body>
+
