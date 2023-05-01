@@ -2,7 +2,7 @@
 
 <body> 
 
-I'm a Social Media Marketing Manager by day and a Software Engineering student by night, looking to break into the engineering world. I'm currently obtaining a Master of Science degree in Software Engineering. I'm also a fulltime student w/ #SheCodes, an accelerated, immersive program featuring hands-on curriculum focused on software engineering, computer science and application development.
+I'm a Social Media Marketing Manager by day and a Software Engineering student by night, looking to break into the engineering world. I'm currently obtaining a Master of Science degree in Software Engineering. I'm also a parttime student w/ #Brainstation, an accelerated, immersive program featuring hands-on curriculum focused on software engineering, computer science and application development.
 
 <hr>
 <p>
@@ -10,7 +10,7 @@ I'm a Social Media Marketing Manager by day and a Software Engineering student b
 </p>
 
 <p>
-📓 I’m currently learning Hosting, React, Bootstrap, REST APIs, functional programming techniques, Flexbox, Media Queries, Vanilla JavaScript, GitHub, SEO, AWS Cloud Practioner, etc.
+📓 I’m currently learning Postman, AXIOS, NPM, React JS & JSX, Node.js, MySQL, express, Passport.js, DevOps, JavaScript, Flex, etc.
 </p>
 
 <p>
